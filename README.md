@@ -33,14 +33,15 @@ The project focused on analyzing business data, identifying trends, creating vis
 
 ## Dashboard
 
-*(Dashboard screenshot coming soon)*
+![IBM Capstone Dashboard](dashboard.jpg)
 
 ---
 
 ## Presentation
 
-*(Presentation PDF coming soon)*
+The full project presentation is included in this repository.
 
+- 📄 Data Analyst Capstone Project Report.pdf
 ---
 
 ## Skills Demonstrated
